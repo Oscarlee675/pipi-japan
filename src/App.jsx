@@ -360,10 +360,6 @@ export default function App() {
 
       <div className="relative z-10 max-w-3xl mx-auto px-6 py-16">
         <header className="mb-16 text-center">
-          <div className="inline-flex items-center gap-2 px-4 py-1.5 mb-8 border border-indigo-100 rounded-full bg-indigo-50/50 shadow-inner">
-            <Sparkles className="w-3.5 h-3.5 text-indigo-500" />
-            <span className="text-[11px] font-black tracking-widest text-indigo-600 uppercase">Premium Itinerary v3.1</span>
-          </div>
           <h1 className="text-6xl font-black tracking-tighter mb-6 text-slate-900 bg-clip-text text-transparent bg-gradient-to-b from-slate-900 to-slate-600">
             廣島 <span className="text-indigo-600">➔</span> 東京
           </h1>
